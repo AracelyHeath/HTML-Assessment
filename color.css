@@ -1,0 +1,28 @@
+h1{
+    background-color:rgb(255,99,71);
+    border:2px solid white;
+    font-family: fantasy;
+    font-weight: bold;
+    word-spacing: 34px;
+    letter-spacing: 40px;
+    text-align: center;
+    
+}
+p{
+    color:aqua;
+    border: 3px solid yellow;
+    background-color:hsl(9,100%,64%) ;
+    font-weight:bold;
+}
+
+.example{
+    background-color:hsla(9, 100%,64%,0.5) ;
+    font-weight:lighter;
+
+}
+#para2{
+    font-size:4vw;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+
+}

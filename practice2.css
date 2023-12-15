@@ -1,0 +1,10 @@
+.practice-box{
+    position: relative;
+}
+
+.practice.green{
+    postion:absolute;
+    width:70%;
+    top:50px;
+    width:15%
+}

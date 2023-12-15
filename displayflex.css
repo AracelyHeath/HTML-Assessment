@@ -1,0 +1,41 @@
+.parent{
+    height: 100vh;
+    border:10px solid black ;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:
+    flex-direction:
+
+}
+.child1{
+    width:200px;
+    height:200px;
+    background: rgb(85,176,204);
+    order:1;
+    flex-grow:2;
+    align-self:flex-start ;
+
+}
+.child2{
+    width:200px;
+    height:200px;
+    background: rgb(0,49,184);
+    order:2;
+    flex-grow:1;
+    align-self:center
+}
+.child3{
+    width:200px;
+    height:200px;
+    background: rgb(105,102,102);
+    flex-basis:400px;
+    align-self:flex-end;
+   
+}
+.child4{
+    width:200px;
+    height:200px;
+    background: rgb(243,100,100);
+    flex:1 1 auto;
+
+}    
